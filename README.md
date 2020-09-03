@@ -1,6 +1,6 @@
-[<img src="https://i.imgur.com/GEKc1Kq.png" alt="Faithful Tweaks Logo" width="150px" />](https://faithfultweaks.com/)
+[<img src="https://i.imgur.com/GEKc1Kq.png" alt="Vanilla Extract Logo" width="150px" />](https://sites.google.com/view/vanilla-extract)
 
-# Faithful Tweaks
+# Vanilla Extract
 <p>
     <a href="https://github.com/FaithfulTweaks/FaithfulTweaks/actions"><img alt="Website Deploy" src="https://github.com/FaithfulTweaks/FaithfulTweaks/workflows/Website%20Deploy/badge.svg"></a>
     <a href="https://github.com/FaithfulTweaks/FaithfulTweaks/actions"><img alt="Functions Deploy" src="https://github.com/FaithfulTweaks/FaithfulTweaks/workflows/Functions%20Deploy/badge.svg"></a>
