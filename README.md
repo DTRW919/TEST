@@ -1,4 +1,4 @@
-[<img src="https://imgur.com/agqW7a2" alt="Faithful Tweaks Logo" width="150px" />](https://faithfultweaks.com/)
+[<img src="https://i.imgur.com/agqW7a2.png" alt="Faithful Tweaks Logo" width="150px" />](https://faithfultweaks.com/)
 
 # Faithful Tweaks
 <p>
