@@ -1,4 +1,4 @@
-[<img src="https://i.imgur.com/GEKc1Kq.png" alt="Vanilla Extract Logo" width="150px" />](https://sites.google.com/view/vanilla-extract)
+[<img src="https://cdn.discordapp.com/attachments/750815939687219412/751234992939597954/512x_Circle_Border.png" alt="Vanilla Extract Logo" width="150px" />](https://sites.google.com/view/vanilla-extract)
 
 # Vanilla Extract
 <p>
